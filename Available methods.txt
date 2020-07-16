@@ -1,0 +1,10 @@
+spigot1, spigot2, 1, 2, cpu-burner1, cpu-burner2, cpu-burner3, cpu-burner4, cpu-burner5, yooniksbypass2, bosshandler, yooniksbypass, flood3, flood2, cpu-lagger1
+
+When using the methods you should have set loopAmount to 1900 like:
+loopAmount=1900 in .sh (our config) file.
+
+When you use cpu-burner1 the loopAmount should be very high like 10000.
+When you use yooniksbypass2 and yooniksbypass it should be low like from 500 to 1900.
+
+You have to always use fresh socks.txt file (it really matters, otherwise the power can be weak because of slow crash connections)
+The current socks.txt file is from 21.01.2020 22:03 CEST timezone (very fresh).

